@@ -1,16 +1,16 @@
-NGUY?N QU?C ??T - 14DC196
-Bài t?p tu?n 6 môn h? th?ng phân tán
+NGUYEN QUOC DAT - 14DC196
+
 <h1>WINDOW</h1> 
-Start the rmi registry using the following command.
-start rmiregistry
-Run the server class file as shown below.
-java Server 
-Run the client class file as shown below.
-java Client 
+<p>Start the rmi registry using the following command.</p>
+<p>start rmiregistry</p>
+<p>Run the server class file as shown below.</p>
+<p>java Server </p>
+<p>Run the client class file as shown below.</p>
+<p>java Client </p>
 
 <h1>LINUX</h1>
-rmiregistry &
-Run the server class file as shown below.
-java Server 
-Run the client class file as shown below.
-java Client 
+<p>rmiregistry &</p>
+<p>Run the server class file as shown below.</p>
+<p>java Server </p>
+<p>Run the client class file as shown below.</p>
+<p>java Client </p>
